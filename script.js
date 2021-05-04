@@ -60,7 +60,7 @@ function check(evt){
     option.style.backgroundColor = '#e94235';
     option.style.color = 'white';
   }
-  setTimeout(change,100);
+  setTimeout(change,500);
 }
 codes_names = []
 const image = document.querySelector('.image');
