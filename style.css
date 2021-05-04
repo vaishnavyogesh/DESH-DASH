@@ -31,7 +31,7 @@ body{
   background-image: url('images/in.svg');
   border-radius: 3px;
   box-shadow: 0px 0px 5px 3px grey;
-  transition: background-image 0.6s ease;
+  transition: background-image ease;
 }
 .select-options{
   /* border: 1px solid black; */
