@@ -1,4 +1,8 @@
 # DESH-DASH 
-[LIVE](https://vaishnavyogesh.github.io/DESH-DASH/)
 
-A quick game in which the player guesses the country name based on the given national flag.
+Let the knowledge & fun begin.
+
+Test your knowledge of the national flags with DESH-DASH.
+
+Have an awesome day :)
+
